@@ -5,7 +5,7 @@
 - 📫 Connect with me on
 - Medium https://medium.com/@graceogo
 - X @graceeogo
-
+- Email gracewemembu@gmail.com
 
 
 <!---
