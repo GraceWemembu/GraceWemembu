@@ -1,7 +1,8 @@
 - 👋 Hi, I'm Grace
 - 👀 Documenting my data journey and experiences
 - 🌱 I’m currently learning python and improving my data viz skills
-- 💞️ I’m open to collaborating on data projects, internships
+- 💞️ I’m open to collaborating on data projects, internships.
+- Reach out to me: gracewemembu@gmail.com
 
 
 <!---
